@@ -48,7 +48,7 @@ To run this aplication you need to download:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/esterandr02/Go-Finances.git
+$ git clone https://github.com/esterandr02/Github-Explorer.git
 
 # Go into the repository
 $ cd Github-Explorer
