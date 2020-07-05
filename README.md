@@ -23,7 +23,7 @@
   <a href="#information_source-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-This project was developed by Rocketseat on Bootcamp course.
+This project was taught by Rocketseat on Bootcamp course.
 
 ## Show Aplication
 <img alt="dashboard" src="src/assets/dashboard.png"/>
@@ -52,5 +52,8 @@ $ git clone https://github.com/esterandr02/Github-Explorer.git
 
 # Go into the repository
 $ cd Github-Explorer
+
+# Run the App
+$ yarn start
 ```
 Made with ♥ by Ester :wave: [Get in touch!](https://www.linkedin.com/in/ester-albuquerque-3589911a6/)
